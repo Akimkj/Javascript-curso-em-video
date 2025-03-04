@@ -43,7 +43,7 @@ p#mensagemHoraDoDia {
     margin-top: 1em;
 }
 
-div#imagemdoDia {
+div#imagemdoDia > img {
     width: 250px;
     height: 250px;
     background-color: black;
