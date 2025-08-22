@@ -1,6 +1,6 @@
 var agora = new Date()
 var hora = agora.getHours()
-
+hora = 10
 var fundoBody = window.document.body
 var textoHoras = window.document.getElementById("mensagemHoraDoDia")
 var imagem = window.document.getElementById("imagem")
